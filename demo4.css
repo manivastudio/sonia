@@ -21,34 +21,6 @@
 	-webkit-perspective: 2000px;
 	perspective: 2000px;
 }
-.side1 {
-	width: 50%;
-	float: left;
-	height: 100%;
-	overflow: hidden;
-}
-.side2 {
-	width: 50%;
-	float: left;
-	height: 100%;
-	overflow: hidden;
-	background-image:url(https://4.bp.blogspot.com/-yEj1GpCy_n8/WooyAipUepI/AAAAAAAAA7k/Z0DN7IuoJtotBrQGb5H9edSxdTYrvnPXgCLcBGAs/s1600/bannerSiteHome2.jpg);
-	
-}
-.side3 {
-	width: 50%;
-	float: left;
-	height: 100%;
-	overflow: hidden;
-	background: #ccc;
-}
-.side4 {
-	width: 50%;
-	float: left;
-	height: 100%;
-	overflow: hidden;
-	background: #ccc;
-}
 .bb-custom-side {
 	width: 50%;
 	float: left;
