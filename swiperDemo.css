@@ -175,14 +175,6 @@ input {
 	-ms-transform-origin: 100% 0 0;
 	-o-transform-origin: 100% 0 0;
 	transform-origin: 100% 0 0;
-
-	background: #fff7ea; /* Old browsers */
-	background: -moz-linear-gradient(left, #fff7ea 0%, #ffffff 19%, #ffffff 82%, #eae2ce 94%, #cec7b7 99%, #878278 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#fff7ea), color-stop(19%,#ffffff), color-stop(82%,#ffffff), color-stop(94%,#eae2ce), color-stop(99%,#cec7b7), color-stop(100%,#878278)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(left, #fff7ea 0%,#ffffff 19%,#ffffff 82%,#eae2ce 94%,#cec7b7 99%,#878278 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(left, #fff7ea 0%,#ffffff 19%,#ffffff 82%,#eae2ce 94%,#cec7b7 99%,#878278 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(left, #fff7ea 0%,#ffffff 19%,#ffffff 82%,#eae2ce 94%,#cec7b7 99%,#878278 100%); /* IE10+ */
-	background: linear-gradient(to right, #fff7ea 0%,#ffffff 19%,#ffffff 82%,#eae2ce 94%,#cec7b7 99%,#878278 100%); /* W3C */
 }
 
 .one, .three, .five, .seven {
